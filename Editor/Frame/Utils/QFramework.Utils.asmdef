@@ -1,0 +1,16 @@
+{
+    "name": "QFramework.Utils",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e0e728f5267368449b966ef444f7df48"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
